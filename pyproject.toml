@@ -6,8 +6,9 @@ authors = [
     {name = "Pedro Sanches",email = "sanchesmil@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
+    "sqlalchemy (>=2.0.38,<3.0.0)"
 ]
 
 
